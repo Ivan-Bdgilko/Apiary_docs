@@ -10,6 +10,10 @@ Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
  - [OLX](https://www.olx.ua/d/uk/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDXotfS.html)
  - [apkua](https://apkua.com/ua/agroboard/i-502780/vagi-pasichni-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki/)
  
+### Як получити дані 
+
+![Screenshot](./images/Data Colletion.jpg) 
+ 
 ### Короткий опис 
 - Тривалий період автономної роботи більше 3 місяців
 - Не потрібен Internet для пристрою - мінімальний пакет GSM або друга картка на Вашому ж номері. 0 - за зв'язок, тільки SMS
