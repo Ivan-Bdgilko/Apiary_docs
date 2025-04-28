@@ -12,7 +12,7 @@ Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
  
 ### Як получити дані 
 
-![Screenshot](./images/Data Colletion.jpg) 
+![Screenshot](./images/datacolletion.jpg) 
  
 ### Короткий опис 
 - Тривалий період автономної роботи більше 3 місяців
