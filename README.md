@@ -95,7 +95,7 @@ Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
 
 Відео обзор [тут](https://www.youtube.com/watch?v=3bXbYNB-EKQ&t=7s)
 
-Ориєнтовна вартість біля 3000 грн. *Уточнюйте*
+Ориєнтовна вартість біля 4000 грн. *Уточнюйте*
 
 Пошукові запроси: *Ваги пасічні, Apiary scales*
 
