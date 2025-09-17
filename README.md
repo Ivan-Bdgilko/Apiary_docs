@@ -1,4 +1,4 @@
-Інструкція користувача [.pdf](https://github.com/Ivan-Bdgilko/Apiary_Docs/blob/main/Manual%20User.pdf)
+Інструкція користувача [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
 
 Відео інструкції [youtube](https://www.youtube.com/@beeApiary)
 
