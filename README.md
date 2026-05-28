@@ -1,4 +1,4 @@
-Language: [English](README.en.md) | [Українська](README.md) | [Polski](README.pl.md) | [Deutsch](README.de.md)
+Language: [English](README.md) | [Українська](README.uk.md) | [Polski](README.pl.md) | [Deutsch](README.de.md)
 
 User manual [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
 
