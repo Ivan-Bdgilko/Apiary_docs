@@ -1,99 +1,104 @@
-Інструкція користувача [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
+Language: [English](README.en.md) | [Українська](README.md) | [Polski](README.pl.md) | [Deutsch](README.de.md)
 
-Відео інструкції [youtube](https://www.youtube.com/@beeApiary)
+User manual [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/User%20Manual.pdf)
 
-Android APP [тут](https://github.com/Ivan-Bdgilko/Android_Apk)
+Video instructions [youtube](https://www.youtube.com/@beeApiary)
 
-Оновлення прошивки [тут](https://github.com/Ivan-Bdgilko/Hive_Controller)
+Android APP [тут](https://play.google.com/store/apps/details?id=com.beeapiary)
 
-Замовити можна тут:
+Firmware update [тут](https://github.com/Ivan-Bdgilko/Hive_Controller)
+
+You can order here:
  - [OLX](https://www.olx.ua/d/uk/obyavlenie/vagi-paschn-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDUTO1F.html)
+ - [OLX](https://www.olx.ua/d/obyavlenie/vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki-IDZ7kfw.html)
  - [apkua](https://apkua.com/ua/agroboard/i-502780/vagi-pasichni-apiary-scales-vesy-pasechnye-vesy-gsm-wi-fi-dlya-paseki/)
 
-**Українська розробка** бджолярів вимушено переміщених з власних пасік 
+**Ukrainian development** by beekeepers forcibly displaced from their own apiaries 
 
-Ціна **нижча в 2-4 раз**и від конкурентів маючих **схожі можливості та об’єм функціоналу** 
+The price is **2–4 times lower** than competitors with **similar capabilities and feature scope** 
 
-**Основні можливості** 
+**Main features** 
 
-- Немає серверів, всі дані то **ваші** дані (абонплати теж немає) <span style="color:red">– клієнт-орієнтованість</span>
-- Відсутність потреби в інтернет дозволяє працювати **дешево** та в зонах дуже слабкого сигналу GSM - зручність 
-- Автономність **6-12 місяців** при повному функціоналі - зручність 
-- Інформація  синхронізована  за  часом  (вага,  температури  2+,  вологість,  тиск,  батарея,  рівень сигналу, датчик руху)- інформативність 
-- Блочна конструкція: легкий та швидкий ремонт або заміна- зручність 
-- Модульність має мету при бажанні додавати або змінювати функціонал на пасіці 
-- Всі налаштування зберігаються навіть зі знятою флеш та відновлюються автоматично на випадок її втрати або виходу з ладу - надійність 
-- Тарування, калібрування зручно та зрозуміле, робиться за 20 сек - зручність 
-- Оновлення тільки з дозволу користувача - надійність 
-- Дані відновлюються при втраті або заміні телефона - надійність 
-- Функція звичайні ваги(без SIM) через Web інтерфейс з будь яким пристроєм: телефон, планшет, ноутбук –клієнт-орієнтованість 
-- Інформаційна підтримка: інструкції різного ступеню глибини, відео налаштування youtube –клієнт- орієнтованість  
+- No servers, all data is **your** data (there is no subscription fee either) <span style="color:red">– customer focus</span>
+- No need for internet allows the device to work **cheaply** and in areas with a very weak GSM signal - convenience 
+- Autonomy of **6–12 months** with full functionality - convenience 
+- Information is synchronized by time (weight, temperatures 2+, humidity, pressure, battery, signal level, motion sensor) - informativeness 
+- Modular block design: easy and quick repair or replacement - convenience 
+- Modularity is intended to allow adding or changing functionality at the apiary if desired 
+- All settings are saved even when the flash drive is removed and are automatically restored in case it is lost or fails - reliability 
+- Taring and calibration are convenient and clear, completed in 20 seconds - convenience 
+- Updates only with the user’s permission - reliability 
+- Data is restored if the phone is lost or replaced - reliability 
+- Regular scale function (without SIM) via Web interface from any device: phone, tablet, laptop – customer focus 
+- Information support: instructions with different levels of detail, YouTube setup videos – customer focus  
 
-**Механічні переваги** 
+**Mechanical advantages** 
 
-- Повністю закритий корпус не потрібує втручання **ніколи**. Нема отворів та кнопок (все закрито) - надійність 
-- Кришки прозорі – якщо волога або комахи раптово там, ви їх побачите одразу – надійність 
-- Прозорі кришки також дозволяють бачити екран та чи працює пристрій - зручність 
-- Всі бокси мають **зовнішні** кріплення як і датчики – зручність, надійність 
-- Все максимально герметизовано та зафіксовано не дозволяє раптово посунути кабель (стяжки гермовводи тощо) - надійність 
-- Плати покрити лаком після монтажу – мінімізує можливість пошкодження вологою- надійність 
-- Життєво важливі компоненти екрановані(максимальна точність) - надійність 
-- Окреме живлення (3 джерела) – стабільність, надійність – то вже дуже технічне але як є - надійність 
+- A fully sealed enclosure requires **no** intervention **ever**. There are no holes or buttons (everything is closed) - reliability 
+- The covers are transparent – if moisture or insects suddenly appear inside, you will see them immediately – reliability 
+- Transparent covers also allow you to see the screen and whether the device is working - convenience 
+- All boxes have **external** mounts, as do the sensors – convenience, reliability 
+- Everything is sealed and fixed as much as possible, preventing the cable from suddenly moving (ties, cable glands, etc.) - reliability 
+- Boards are coated with varnish after assembly – this minimizes the possibility of moisture damage - reliability 
+- Vital components are shielded (maximum accuracy) - reliability 
+- Separate power supply (3 sources) – stability, reliability – this is already very technical, but it is what it is - reliability 
 
-**Додаткові розширення** 
+**Additional extensions** 
 
-- Андроїд  аплікація  розгалужені  графіки,  декілька  пристроїв  одночасно,  детальна  інформація погодинно, порівняння декількох пристроїв, події – журнал бджоляра (в розробці) - зручність 
-- Екран, сонячна панель (живлення назавжди), збільшена батарея, зовнішня антена 
-- Охорона, вихід параметрів за межі – аварійне інформування володаря (20сек) 
-- Вся інформація про виміри також зберігається в окремих файлах по місяцях та роках в зручному табличному форматі(.CSV) на пристрої  - зручність 
-- Велика кількість налаштувань: - гнучкість 
-  - SМS для користувача (дідусь стайл), андроїд аплікації 
-  - Декілька номерів інформування 2+ 
-  - Інформування аварійне  
-  - Гнучкий графік створення повідомлень 
-  - Можливо використання без ваг як метео або інші комбінації 
-  - Синхронізація часу з телефонам або NTP за бажанням 
-  - Всі додаткові налаштування відкриті та мають детальний опис (.XML) - зручність 
-- Захищена батарея, пристрій має 3 рівні контролю за живлення які не дозволять «вбити» батарею навіть через декілька років не звертання до пристрою – надійність 
-- Логування  процесу  роботи  пристрою  дозволяє  віддалено  виявляти  проблеми  якщо  вони з’являються - зручність 
-- Підтримка FTP з’єднання дозволяє завантажувати файли та оновлювати прошивку не відкриваючи коробки (для гурманів FileZilla) – надійність 
+- Android application: advanced graphs, several devices simultaneously, detailed hourly information, comparison of several devices, events – beekeeper’s journal (in development) - convenience 
+- Screen, solar panel (power forever), larger battery, external antenna 
+- Security, parameters going beyond limits – emergency notification of the owner (20 seconds) 
+- All measurement information is also stored in separate files by months and years in a convenient spreadsheet format (.CSV) on the device - convenience 
+- A large number of settings: - flexibility 
+  - SMS for the user (grandpa style), Android applications 
+  - Several notification numbers 2+ 
+  - Emergency notifications  
+  - Flexible message creation schedule 
+  - Possible use without scales as a weather station or in other combinations 
+  - Time synchronization with the phone or NTP if desired 
+  - All additional settings are open and have a detailed description (.XML) - convenience 
+- Protected battery, the device has 3 levels of power control that will not allow the battery to be “killed” even after several years without accessing the device – reliability 
+- Logging of the device operation process allows problems to be detected remotely if they appear - convenience 
+- FTP connection support allows uploading files and updating firmware without opening the box (FileZilla for gourmets) – reliability 
 
-Мови: Українська, Англійська, Польська, додати інші 1 година за умов допомоги носія або перекладача, **окрім мови ворога.**  
+Languages: Ukrainian, English, Polish; adding other languages takes 1 hour with the help of a native speaker or translator, **except for the language of the enemy.**  
 
-Також ми приймаємо поради що до покращення та допомогу у вигляді інформаційної підтримки з приводу розповсюдження приладу. 
+We also accept suggestions for improvement and help in the form of information support regarding the distribution of the device. 
 
-Активна фаза розробки завершена проект стабільний але покращити завжди раді. – відкритість та незалежність 
+The active development phase is complete, the project is stable, but we are always happy to improve it. – openness and independence 
 
 
  
-### Як получити дані 
+### How to get data 
 
 ![Screenshot](./images/dataco.jpg) 
  
-### Короткий опис 
-- Тривалий період автономної роботи більше 3 місяців
-- Не потрібен Internet для пристрою - мінімальний пакет GSM або друга картка на Вашому ж номері. 0 - за зв'язок, тільки SMS
-- Є безпосереднє завантаження данних з пристрою за РІК або весь термін користування
+### Brief description 
+- Long autonomous operation period — more than 3 months
+- No internet is required for the device - a minimal GSM package or a second SIM card on your own number. 0 - for communication, SMS only
+- Direct downloading of data from the device is available for a YEAR or for the entire period of use
 
-### Призначення
- Призначен для безперервного контролю за вуликом/пасікою, передачі інформації на мобільний пристрій користувача та/або збереження даних у архіві тощо.
-Пристрій вимірює такі параметри:
-- Вага вулика 200+ кг
-- Температура 2 датчика, що розміщені всередині та зовні вулика
-- Вологість <sub>опція</sub>
-- Тиск <sub>опція</sub>
-- Охорона вулика/пасіки датчик руху <sub>опція</sub>
+### Purpose
+ Designed for continuous monitoring of a hive/apiary, transmitting information to the user’s mobile device and/or storing data in an archive, etc.
+The device measures the following parameters:
+- Hive weight 200+ kg
+- Temperature: 2 sensors placed inside and outside the hive
+- Humidity <sub>option</sub>
+- Pressure <sub>option</sub>
+- Hive/apiary security, motion sensor <sub>option</sub>
 
-Вивод інформації на екран <sub>опція</sub>
+Displaying information on the screen <sub>option</sub>
 
-Вся інформація синхронізована за часом та зберігається за весь період користування пристроєм, незважаючи на наявність зв'язку, що дає можливість працювати з даними за наявності пристрою або без нього за допомогою іншого стороннього ПЗ обробки таблиць.
+All information is synchronized by time and stored for the entire period of device use, regardless of the availability of communication, which makes it possible to work with the data with or without the device using other third-party spreadsheet processing software.
 
-Питання можна задати на пошту: Apiary4.bee@gmail.com
+Questions can be sent by email: Apiary4.bee@gmail.com
 
-Відео обзор [тут](https://www.youtube.com/watch?v=3bXbYNB-EKQ&t=7s)
+Video overview [тут](https://www.youtube.com/watch?v=h_UnnLXA2ws)
+Video overview [тут](https://www.youtube.com/watch?v=HyZ8Eq862ug)
 
-Ориєнтовна вартість біля 4000 грн. *Уточнюйте*
 
-Пошукові запроси: *Ваги пасічні, Apiary scales*
+Approximate cost — about 5000 UAH. *Please confirm*
 
-Сервісна інструкція [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/Service%20Manual.pdf)
+Search queries: *Ваги пасічні, Apiary scales*
+
+Service manual [.pdf](https://github.com/Ivan-Bdgilko/Apiary_docs/blob/main/Service%20Manual.pdf)
